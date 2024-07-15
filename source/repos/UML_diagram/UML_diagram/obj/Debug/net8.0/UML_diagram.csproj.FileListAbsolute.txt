@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\UML_diagram\UML_diagram\bin\Debug\net8.0\UML_diagram.exe
+C:\Users\User\source\repos\UML_diagram\UML_diagram\bin\Debug\net8.0\UML_diagram.deps.json
+C:\Users\User\source\repos\UML_diagram\UML_diagram\bin\Debug\net8.0\UML_diagram.runtimeconfig.json
+C:\Users\User\source\repos\UML_diagram\UML_diagram\bin\Debug\net8.0\UML_diagram.dll
+C:\Users\User\source\repos\UML_diagram\UML_diagram\bin\Debug\net8.0\UML_diagram.pdb
+C:\Users\User\source\repos\UML_diagram\UML_diagram\obj\Debug\net8.0\UML_diagram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\UML_diagram\UML_diagram\obj\Debug\net8.0\UML_diagram.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\UML_diagram\UML_diagram\obj\Debug\net8.0\UML_diagram.AssemblyInfo.cs
+C:\Users\User\source\repos\UML_diagram\UML_diagram\obj\Debug\net8.0\UML_diagram.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\UML_diagram\UML_diagram\obj\Debug\net8.0\UML_diagram.dll
+C:\Users\User\source\repos\UML_diagram\UML_diagram\obj\Debug\net8.0\refint\UML_diagram.dll
+C:\Users\User\source\repos\UML_diagram\UML_diagram\obj\Debug\net8.0\UML_diagram.pdb
+C:\Users\User\source\repos\UML_diagram\UML_diagram\obj\Debug\net8.0\UML_diagram.genruntimeconfig.cache
+C:\Users\User\source\repos\UML_diagram\UML_diagram\obj\Debug\net8.0\ref\UML_diagram.dll
